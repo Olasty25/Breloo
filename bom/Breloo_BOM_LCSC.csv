@@ -1,0 +1,21 @@
+LCSC,MPN,Manufacturer,Package,Description,Designators,Qty per board,Qty for 3 boards,LCSC min order,Qty to order,Unit price USD,Line total USD,Link
+C1591,CL10B104KB8NNNC,Samsung,0603,100nF 50V X7R ±10%,"C2,C3,C9,C11,C12",5,15,100,100,0.0062,0.62,https://www.lcsc.com/product-detail/C1591.html
+C15849,CL10A105KB8NNNC,Samsung,0603,1uF 50V X5R ±10%,"C4,C8,C13",3,9,50,50,0.0095,0.47,https://www.lcsc.com/product-detail/C15849.html
+C15850,CL21A106KAYNNNE,Samsung,0805,10uF 25V X5R ±10%,"C1,C5,C6,C7",4,12,20,20,0.0313,0.63,https://www.lcsc.com/product-detail/C15850.html
+C45783,CL21A226MAQNNNE,Samsung,0805,22uF 25V X5R ±20%,C10,1,3,20,20,0.1094,2.19,https://www.lcsc.com/product-detail/C45783.html
+C25804,0603WAF1002T5E,UNI-ROYAL,0603,10k 1% 100mW,"R1,R2,R3,R4,R7",5,15,100,100,0.0017,0.17,https://www.lcsc.com/product-detail/C25804.html
+C22797,0603WAF1302T5E,UNI-ROYAL,0603,13k 1% 100mW,R5,1,3,100,100,0.0019,0.19,https://www.lcsc.com/product-detail/C22797.html
+C21190,0603WAF1001T5E,UNI-ROYAL,0603,1k 1% 100mW,R6,1,3,100,100,0.0016,0.16,https://www.lcsc.com/product-detail/C21190.html
+C22935,0603WAF1004T5E,UNI-ROYAL,0603,1M 1% 100mW,"R8,R9",2,6,100,100,0.0018,0.18,https://www.lcsc.com/product-detail/C22935.html
+C25196,0603WAF560JT5E,UNI-ROYAL,0603,56R 1% 100mW,R10,1,3,100,100,0.0027,0.27,https://www.lcsc.com/product-detail/C25196.html
+C23186,0603WAF5101T5E,UNI-ROYAL,0603,5.1k 1% 100mW,"R11,R12",2,6,100,100,0.0015,0.15,https://www.lcsc.com/product-detail/C23186.html
+C23345,0603WAF220JT5E,UNI-ROYAL,0603,22R 1% 100mW,R13,1,3,100,100,0.0015,0.15,https://www.lcsc.com/product-detail/C23345.html
+C2286,KT-0603R,Hubei KENTO,0603,"LED red 0603, charge status",D2,1,3,100,100,0.0077,0.77,https://www.lcsc.com/product-detail/C2286.html
+C8545,2N7002,JSCJ,SOT-23,"N-ch MOSFET, backlight switch",Q2,1,3,50,50,0.0157,0.78,https://www.lcsc.com/product-detail/C8545.html
+C51118,AP2112K-3.3TRG1,Diodes,SOT-23-5,LDO 3.3V 600mA,U5,1,3,5,5,0.1683,0.84,https://www.lcsc.com/product-detail/C51118.html
+C424093,MCP73831T-2ACI/OT,Microchip,SOT-23-5,LiPo charger 4.2V,U6,1,3,1,3,0.7961,2.39,https://www.lcsc.com/product-detail/C424093.html
+C2913205,ESP32-S3-WROOM-1-N16R2,Espressif,SMD 25.5x18mm,"MCU module, 16MB flash 2MB PSRAM",U4,1,3,1,3,5.2876,15.86,https://www.lcsc.com/product-detail/C2913205.html
+C114218,DM3AT-SF-PEJM5,Hirose,SMD,"microSD socket, push-push",J6,1,3,1,3,1.4042,4.21,https://www.lcsc.com/product-detail/C114218.html
+C319148,U262-161N-4BVC11,XKB,SMD,USB-C receptacle 16P,J7,1,3,5,5,0.4106,2.05,https://www.lcsc.com/product-detail/C319148.html
+C528035,X05A10H12G,XKB,SMD P=0.5mm,"FPC 12P dual-contact, display",J8,1,3,5,5,0.3665,1.83,https://www.lcsc.com/product-detail/C528035.html
+C231329,B3U-1000P,Omron,SMD 3x2.5mm,Tact switch,SW2,1,3,5,5,0.1894,0.95,https://www.lcsc.com/product-detail/C231329.html
